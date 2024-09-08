@@ -1,0 +1,39 @@
+/* Ínicio do código */
+.title{
+    margin-top: 200px;
+}
+.title h1{
+    text-align: center;
+    color: #6495ED;
+}
+.title h5{
+    text-align: center;
+    font-family:Almarai;
+    font-size: 25px;
+}
+img{
+    width: 30%;
+}
+span{
+    color: #6495ED;
+}
+.togoback{
+    font-size: 40px;
+}
+
+.togoback a{
+    text-decoration-line: none;
+    color: black;
+    
+}
+.top{
+    text-align: center;
+    
+}
+.top a{
+    text-decoration-line: none;
+    color: black;
+    font-size: 40px;
+    font-family: Almarai;
+}
+
